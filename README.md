@@ -1,3 +1,4 @@
 # Python Programming
 Color Palette:
-[https://colorhunt.co/]
+<br>
+https://colorhunt.co/
